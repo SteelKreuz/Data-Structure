@@ -1,0 +1,25 @@
+Ctrl + f ile aratıp, metotlar, "Dugum.cs" dosyasında bulunabilir...  
+
+Ekle():
+   Listeye sıra ile eleman(düğüm) ekler
+
+Yaz():
+   Listeyi baştan sona doğru yazdırır.
+
+GeriYaz():
+   Sondan başa doğru yazdırır.
+
+BasaEkle():
+   Listenin başına eleman ekler.
+
+ArdindanEkle():
+   Herhangi bir elemanın arasına eleman ekler.
+
+SonaEkle():
+   Listenin sonuna eleman ekler.
+
+VeriIleSil():
+   Düğümlerde tutulan verilere göre yani elemanlara göre silme işlemi yapar.
+
+IndexIleSil():
+   Elemanların listedeki sırasına göre silme işlemi yapar.
